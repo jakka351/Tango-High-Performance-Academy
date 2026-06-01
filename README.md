@@ -16,4 +16,4 @@ Take note fuckers - I would call your web developer ASAP - because if anybody el
 Thats what you get. 
 
   
-`lgoliaAppID = 'MWM0VGEMN0', algoliaSearchAPIKey = 'a19fb64b755e511f7574d6b0a2f7a107`
+`AlgoliaAppID = 'MWM0VGEMN0', algoliaSearchAPIKey = 'a19fb64b755e511f7574d6b0a2f7a107`
