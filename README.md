@@ -14,3 +14,6 @@ the website - and a full PDF report breaking down how shitty wok and vulnerable 
 Take note fuckers - I would call your web developer ASAP - because if anybody else that you have pissed off - or ripped off - finds this repository - they just may well go ahead and use the contents of it against you. 
 
 Thats what you get. 
+
+  
+`algoliaAppID = 'MWM0VGEMN0', algoliaSearchAPIKey = 'a19fb64b755e511f7574d6b0a2f7a107'
